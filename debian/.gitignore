@@ -1,0 +1,6 @@
+pi-gen-micro.*.debhelper
+pi-gen-micro.substvars
+pi-gen-micro/
+pi-gen-micro-*/
+files
+debhelper-build-stamp

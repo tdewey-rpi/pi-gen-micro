@@ -1,0 +1,5 @@
+pi-gen-micro (1.0.0) unstable; urgency=low
+
+  * pi-gen-micro: Initial release, including a configuration application
+
+ -- Tom Dewey <tom.dewey@raspberrypi.com> Wed, 4 Sep 2024 11:30:00 +0000

@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+export DH_VERBOSE = 1
+export DH_VIRTUALENV_INSTALL_ROOT=/var/lib/
+
+%:
+	dh $@ --with python-virtualenv
+
+override_dh_usrlocal:
